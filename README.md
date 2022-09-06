@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Shreewatsa Timalsena</h1>
-<h3 align="center">Software Engineer | Tech Enthusiast</h3>
+<h3 align="center">Software Engineer | Hiker</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreewatsa" alt="shreewatsa" /></a> </p>
 
