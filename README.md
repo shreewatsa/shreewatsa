@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **shreewatsa@gmail.com**
 
-- ⚡ Fun fact **Futsal is my favorite game.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
